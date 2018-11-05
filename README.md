@@ -1,0 +1,2 @@
+# diagnostico_tecnologico
+encuesta
