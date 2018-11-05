@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient(-90deg, skyblue, purple);
+    display: flex;
+    min-height: 100vh;
+}
+
+.titulo{
+    background: #0AA37E;
+    color: #fff;
+    padding-bottom: 40px;
+    margin-bottom: 0px;
+    font-size: 30px;
+}
+
+#header{
+    background: #840D3D;
+    color: #fff;
+    padding-bottom: 40px;
+    margin-bottom: 10px;
+}
+
+#header .create{
+    padding-top: 20px;
+}
+
+.contenedor{
+    width: 50%;
+    margin: 0 auto;
+    font-size: 20px;
+}
+
+input[type="submit"]{
+    background: linear-gradient(#02E2A8,#02B486);
+    border: 0;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-bottom: 0;
+    width: 160px;
+}
